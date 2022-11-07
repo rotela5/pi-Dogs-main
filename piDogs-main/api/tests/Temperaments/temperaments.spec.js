@@ -14,7 +14,7 @@ describe('temperament model', () => {
 
 		beforeEach(async () => {
 			model = await temperament.create({
-				name: 'Watchful',
+				name: 'pastor',
 			});
 		});
 

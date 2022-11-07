@@ -15,7 +15,7 @@ describe('dog model', () => {
 		beforeEach(async () => {
 			model = await dog.create({
 				name: 'Affenpinscher',
-				lowest_weight: 3,
+				
 				
 					});
 		});
